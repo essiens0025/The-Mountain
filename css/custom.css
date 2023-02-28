@@ -1,0 +1,155 @@
+header {
+    background-image: url("../images/bg_header.jpg") ;
+    text-align: center;
+    color: white;
+    height: 1200px;
+    background-size: 100%;
+}
+
+.logohd {
+    width: 150px;
+}
+
+.logo {
+    margin-right: 1000px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: black;
+}
+
+#h1hd {
+    
+    padding-top: 150px;
+}
+
+#p1 {
+    
+    padding-top: 50px;
+
+}
+
+#features {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.icon {
+    font-size: 80px;
+}
+
+#about {
+    background-image: url("../images/bg_nuage.jpg");
+    background-size: 100%;
+    background-position: 1px;
+
+}
+
+.jumbo {
+    margin-left: 900px;
+    margin-right: 300px;
+    color: white; 
+    padding: 40px;
+
+
+}
+
+#h1ju {
+    padding-top: 70px;
+}
+
+.h2ju {
+    padding-top: 25px;
+    font-size: 20px;
+}
+
+.pju {
+    margin-top: 20px;
+}
+
+
+.pjumb {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.pjumbnb {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.blogimg {
+    size: 100%;
+    width: 400px;
+    height: 420px;
+    padding-top: 50px;
+}
+
+.h1blog {
+    padding-top: 80px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#history {
+    background-image: url("/bootstrap-challenge-the_mountain-master/images/bg_appareil_photo.jpg");
+    background-size: 100%;
+    background-position: center;
+    color: white;
+}
+
+.appjumb {
+    margin-right: 640px;
+    
+}
+
+.h1app{
+    font-size: 26px;
+    font-family: Rokkit;
+    padding: 40px;
+}
+
+.h2app {
+    font-size: 26px;
+    font-family: Roboto;
+    padding: 40px;
+}
+
+.papp {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 30px;
+}
+
+.papp2 {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+
+#photos {
+    background-color: grey;
+    
+}
+
+#contact {
+    background-image: url("/bootstrap-challenge-the_mountain-master/images/bg_newsletter.jpg");
+    color: white;
+    background-position: unset;
+
+}
+
+.h1cont {
+    padding-top: 80px;
+    font-size: 35px;
+}
+
+.pcontact {
+    padding-top: 20px;
+}
+
+.content {
+  overflow: auto;
+  backdrop-filter: blur(20%);
+  backdrop-filter: brightness(50%);
+}
